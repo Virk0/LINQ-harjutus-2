@@ -1,0 +1,6 @@
+C:\Users\opilane\Documents\GitHub\LINQ-harjutus-2\LINQ2\bin\Debug\LINQ2.exe.config
+C:\Users\opilane\Documents\GitHub\LINQ-harjutus-2\LINQ2\bin\Debug\LINQ2.exe
+C:\Users\opilane\Documents\GitHub\LINQ-harjutus-2\LINQ2\bin\Debug\LINQ2.pdb
+C:\Users\opilane\Documents\GitHub\LINQ-harjutus-2\LINQ2\obj\Debug\LINQ2.csprojResolveAssemblyReference.cache
+C:\Users\opilane\Documents\GitHub\LINQ-harjutus-2\LINQ2\obj\Debug\LINQ2.exe
+C:\Users\opilane\Documents\GitHub\LINQ-harjutus-2\LINQ2\obj\Debug\LINQ2.pdb
